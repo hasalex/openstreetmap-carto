@@ -2,6 +2,16 @@
   "interactivity": false,
   "Layer": [
     {
+      "name": "Lignes_Tramway",
+      "srs-name": "900913",
+      "geometry": "polygon",
+      "id": "Lignes_Tramway",
+      "Datasource": {
+        "type": "shape",
+        "file": "data/lignes_tramway/Lignes_Tramway.shp"
+      }
+    },
+    {
       "name": "ocean-lz",
       "srs-name": "900913",
       "geometry": "polygon",
