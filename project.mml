@@ -10,7 +10,15 @@
       "Datasource": {
         "type": "shape",
         "file": "data/lignes_tramway/Lignes_Tramway.shp"
-      }
+      },
+      "extent": [
+        -7.6818989747512623,33.5339064795232602,-7.4997648643427235,33.6104825514187411
+      ],
+      "properties": {
+        "maxzoom": 15,
+        "minzoom": 1
+      },
+      "advanced": {}
     },
     {
       "name": "ocean-lz",
